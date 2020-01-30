@@ -16,9 +16,7 @@ Schedule a Trip](disney.jpg) [![Image](no.jpg)**New Orleans, Louisiana**
 
 Take some time to party in Mardi Gras and the vibrant night life of this bustling city. Don't forget to get a taste of the best cajun and soul food before you leave!
 
-Schedule a Trip](no.jpg)
-
-Schedule a Trip](ash.jpg) [![Image](bir.jpg)**Birmingham, Alabama**
+[![Image](bir.jpg)**Birmingham, Alabama**
 
 Learn something new in the museums of Birmingham.
 
