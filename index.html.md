@@ -16,19 +16,13 @@ Schedule a Trip](disney.jpg) [![Image](no.jpg)**New Orleans, Louisiana**
 
 Take some time to party in Mardi Gras and the vibrant night life of this bustling city. Don't forget to get a taste of the best cajun and soul food before you leave!
 
-Schedule a Trip](no.jpg) [![Image](ash.jpg)**Asheville, North Carolina**
-
-Bask in the natural beauty or artistic beauty in Ashevilla, SC.
+Schedule a Trip](no.jpg)
 
 Schedule a Trip](ash.jpg) [![Image](bir.jpg)**Birmingham, Alabama**
 
 Learn something new in the museums of Birmingham.
 
 Schedule a Trip](bir.jpg) [![Image](nash.jpg)**Nashville, Tennessee**
-
-The country music capital of the United States filled with unique, hidden entertainment gems waiting to be found.
-
-Schedule a Trip](nash.jpg) [![Image](at.jpg)**Atlanta, Georgia**
 
 The country music capital of the United States filled with unique, hidden entertainment gems waiting to be found.
 
