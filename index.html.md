@@ -30,6 +30,10 @@ The country music capital of the United States filled with unique, hidden entert
 
 Schedule a Trip](nash.jpg) [![Image](at.jpg)**Atlanta, Georgia**
 
+The country music capital of the United States filled with unique, hidden entertainment gems waiting to be found.
+
+Schedule a Trip](nash.jpg) [![Image](at.jpg)**Atlanta, Georgia**
+
 Splash into the world's largest aquarium or pop into the World of Coca-Cola® on your next trip.
 
 Schedule a Trip](at.jpg)**  Want to Work With Us? **
