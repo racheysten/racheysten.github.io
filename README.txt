@@ -8,31 +8,31 @@
 ## Most Popular Destinations
 
 Take a look at where our flyers are flinging to. Make an account to save your favorite destinations.
-[![Image](../traveler/disney.jpg)**Orlando, Florida**
+[![Image](disney.jpg)**Orlando, Florida**
 
 Experience the magical and cinematic world of some of your favorite characters at theme parks.
 
-Schedule a Trip](../traveler/disney.jpg) [![Image](../traveler/no.jpg)**New Orleans, Louisiana**
+Schedule a Trip](disney.jpg) [![Image](no.jpg)**New Orleans, Louisiana**
 
 Take some time to party in Mardi Gras and the vibrant night life of this bustling city. Don't forget to get a taste of the best cajun and soul food before you leave!
 
-Schedule a Trip](../traveler/no.jpg) [![Image](../traveler/ash.jpg)**Asheville, North Carolina**
+Schedule a Trip](no.jpg) [![Image](ash.jpg)**Asheville, North Carolina**
 
 Bask in the natural beauty or artistic beauty in Ashevilla, SC.
 
-Schedule a Trip](../traveler/ash.jpg) [![Image](../traveler/bir.jpg)**Birmingham, Alabama**
+Schedule a Trip](ash.jpg) [![Image](bir.jpg)**Birmingham, Alabama**
 
 Learn something new in the museums of Birmingham.
 
-Schedule a Trip](../traveler/bir.jpg) [![Image](../traveler/nash.jpg)**Nashville, Tennessee**
+Schedule a Trip](bir.jpg) [![Image](nash.jpg)**Nashville, Tennessee**
 
 The country music capital of the United States filled with unique, hidden entertainment gems waiting to be found.
 
-Schedule a Trip](../traveler/nash.jpg) [![Image](../traveler/at.jpg)**Atlanta, Georgia**
+Schedule a Trip](nash.jpg) [![Image](at.jpg)**Atlanta, Georgia**
 
 Splash into the world's largest aquarium or pop into the World of Coca-Cola® on your next trip.
 
-Schedule a Trip](../traveler/at.jpg)**  Want to Work With Us? **
+Schedule a Trip](at.jpg)**  Want to Work With Us? **
 
 We take pride in hiring the best employees from all walks of life! There's is always a job for everyone to do,
 						but unfortunately not everyone is qualified to do it. If you wish to apply to work with us at Fling, here are some easy steps to do so!
